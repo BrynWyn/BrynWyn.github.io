@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "ieuanrowlandscouk-20190127115710-authRole",
+            "UnauthRoleArn": "arn:aws:iam::850362581632:role/ieuanrowlandscouk-20190127115710-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::850362581632:role/ieuanrowlandscouk-20190127115710-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "ieuanrowlandscouk-20190127115710-deployment",
+            "UnauthRoleName": "ieuanrowlandscouk-20190127115710-unauthRole",
+            "StackName": "ieuanrowlandscouk-20190127115710",
+            "StackId": "arn:aws:cloudformation:eu-west-1:850362581632:stack/ieuanrowlandscouk-20190127115710/ac185f40-222a-11e9-b5c1-06fd3e47f290"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "projectName": "ieuanrowlandscouk",
+    "projectPath": "C:\\Development\\Web\\ieuanrowlands.co.uk\\ieuanrowlands.co.uk",
+    "defaultEditor": "code",
+    "frontendHandler": {
+        "javascript": "C:\\Users\\ieuan\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-frontend-javascript"
+    },
+    "javascript": {
+        "framework": "react",
+        "config": {
+            "SourceDir": "src",
+            "DistributionDir": "public",
+            "BuildCommand": "npm.cmd run-script build",
+            "StartCommand": "npm.cmd run-script develop"
+        }
+    },
+    "providers": {
+        "awscloudformation": "C:\\Users\\ieuan\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-provider-awscloudformation"
+    }
+}
